@@ -41,6 +41,7 @@ Basado en **NetAcad Python Fundamentals 2**:
 ### Actividades en Clase
 
 1. **CRUD en PostgreSQL**
+   ###
 2. **Instalaciones y Configuraciones Básicas**
    ### Configuración inicial de Raspberry Pi, 
    ## Requisitos
@@ -63,9 +64,35 @@ Basado en **NetAcad Python Fundamentals 2**:
       4. Grabar el sistema operativo en la tarjeta SD y esperar a que finalice.  
       5. Insertar la tarjeta SD en la **Raspberry Pi** y encender el dispositivo.  
          ![image](https://github.com/user-attachments/assets/13b5588c-1340-4e27-b5f5-99823194cee3)
+---
+  ### Configuracion y instalación de PostgreSQL,
+    # Instalación de PostgreSQL
+    sudo apt install postgresql -y
+    
+    # Verificar la instalación
+    psql --version
+    
+    # Iniciar el servicio PostgreSQL
+    sudo systemctl start postgresql
+    
+    # Habilitar PostgreSQL para que inicie automáticamente
+    sudo systemctl enable postgresql
+    
+    # Cambiar al usuario PostgreSQL
+    sudo -i -u postgres
+    
+    # Acceder a la terminal interactiva de PostgreSQL
+    psql
+    
+    # Para salir de la terminal interactiva de PostgreSQL
+    \q
+---
+ ### Configuracion y instalación de Node-RED,
 
 ---
+ ### Configuracion y instalación de Mosquitto.
 
+---
 3. LED y Botón con Raspberry Pi
 
 ---
