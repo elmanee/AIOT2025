@@ -28,20 +28,18 @@ Basado en **NetAcad Python Fundamentals 2**:
 ### Parte Práctica en Parejas
 
 1. **Almacenamiento de Datos**  
-   - Aquí se encuentra el [video](#) (enlace al video).
+   - Aquí se encuentra el [video](https://drive.google.com/drive/u/1/folders/19RpCIAAl2Uu6tYpRGtVSVjUTRc8HuKIO) (enlace al video).
   
 ---
 2. **Control de Actuadores**  
-   - Aquí se encuentra el [video](#) (enlace al video).
+   - Aquí se encuentra el [video](https://drive.google.com/drive/u/1/folders/1JhLZRLE6A3zjgKOxZ8ZcqjIGfhsnZxQd) (enlace al video).
 
 ---
 
-#### Actividades Individuales
----
 ### Actividades en Clase
 
 1. **CRUD en PostgreSQL**
-   ###
+   -Aquí se encuentra el [video](https://drive.google.com/drive/u/1/folders/19RpCIAAl2Uu6tYpRGtVSVjUTRc8HuKIO) (enlace al video).
 2. **Instalaciones y Configuraciones Básicas**
    ### Configuración inicial de Raspberry Pi, 
    ## Requisitos
@@ -62,8 +60,8 @@ Basado en **NetAcad Python Fundamentals 2**:
            - **Red Wi-Fi** (si aplica).  
            - **Zona horaria y región**.  
       4. Grabar el sistema operativo en la tarjeta SD y esperar a que finalice.  
-      5. Insertar la tarjeta SD en la **Raspberry Pi** y encender el dispositivo.  
-         ![image](https://github.com/user-attachments/assets/13b5588c-1340-4e27-b5f5-99823194cee3)
+      5. Insertar la tarjeta SD en la **Raspberry Pi** y encender el dispositivo.
+     ![image](https://github.com/user-attachments/assets/5e99dc73-931b-4f4b-81f7-08e3a03c19e6)
 ---
   ### Configuracion y instalación de PostgreSQL,
     # Instalación de PostgreSQL
@@ -86,6 +84,9 @@ Basado en **NetAcad Python Fundamentals 2**:
     
     # Para salir de la terminal interactiva de PostgreSQL
     \q
+    
+  ![image](https://github.com/user-attachments/assets/1ba2b354-de40-413b-864f-d087107432b8)
+
 ---
  ### Configuracion y instalación de Node-RED,
 
@@ -94,13 +95,18 @@ Basado en **NetAcad Python Fundamentals 2**:
 
 ---
 3. LED y Botón con Raspberry Pi
+  -Aquí se encuentra el [video](https://drive.google.com/drive/u/1/folders/1JhLZRLE6A3zjgKOxZ8ZcqjIGfhsnZxQd) (enlace al video).
+   
 
 ---
 4. Conexión MQTT en Node-RED
+  -Aquí se encuentra el [video](https://drive.google.com/drive/u/1/folders/1JhLZRLE6A3zjgKOxZ8ZcqjIGfhsnZxQd) (enlace al video).
+  ![image](https://github.com/user-attachments/assets/bc10ec93-e328-4240-8c18-e9c48e039032)
 
 
 ### Circuito Funcional en Placa Fenólica
 
 ### Figura 2D o 3D Soldada
+![Imagen de WhatsApp 2025-02-25 a las 14 04 59_31ebdd90](https://github.com/user-attachments/assets/66c3b280-fa41-424f-a6b0-729a0ba67a93)
 
 ---
