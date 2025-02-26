@@ -25,7 +25,7 @@ Basado en **NetAcad Python Fundamentals 2**:
 
 ---
 
-### Parte Práctica en Parejas
+### Parte Práctica 
 
 1. **Almacenamiento de Datos**  
    - Aquí se encuentra el [video](https://drive.google.com/drive/u/1/folders/19RpCIAAl2Uu6tYpRGtVSVjUTRc8HuKIO) (enlace al video).
@@ -87,15 +87,13 @@ Basado en **NetAcad Python Fundamentals 2**:
     
   ![image](https://github.com/user-attachments/assets/1ba2b354-de40-413b-864f-d087107432b8)
 
----
- ### Configuracion y instalación de Node-RED,
+  ![image](https://github.com/user-attachments/assets/d5be0be0-272b-4334-a7d2-d95fea7739d0)
 
----
- ### Configuracion y instalación de Mosquitto.
 
 ---
 3. LED y Botón con Raspberry Pi
   -Aquí se encuentra el [video](https://drive.google.com/drive/u/1/folders/1JhLZRLE6A3zjgKOxZ8ZcqjIGfhsnZxQd) (enlace al video).
+   
    
 
 ---
