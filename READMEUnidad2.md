@@ -1137,6 +1137,9 @@
 ---
 ## Actividad 2
 - Figura
+  ![Imagen de WhatsApp 2025-03-16 a las 23 21 54_741df326](https://github.com/user-attachments/assets/92dcf33b-ba32-40e0-bac2-fcda88f84b25)
+  ![Imagen de WhatsApp 2025-03-16 a las 23 21 54_a3168b67](https://github.com/user-attachments/assets/34428c0f-bbbb-424e-b063-2e15f46ecfc0)
+  ![Imagen de WhatsApp 2025-03-16 a las 23 21 54_5a3fab4f](https://github.com/user-attachments/assets/e82d7625-2e31-4e15-8179-ac4bf48096bf)
 ---
 ## Actividad 3
 ### Curos *JavaScript Fundamentals 2*
